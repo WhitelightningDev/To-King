@@ -79,9 +79,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries, please contact:
 
-- **Your Name**  
-- **Email**: your.email@example.com  
-- **GitHub**: [yourusername](https://github.com/WhitelightningDev) 
+- **Daniel Mommsen**  
+- **Email**: danielmommsen@hotmail.com  
+- **GitHub**: [WhitelightningDev](https://github.com/WhitelightningDev) 
 
 ### Instructions for Use:
 1. **Modify the Links**: Replace `https://github.com/WhitelightingDev/token-generation-app.git` with the actual URL of your GitHub repository.
