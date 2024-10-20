@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">To-king</string>
+    <color name="colorSuccess" />
+    <string name="drawer_open" translatable="false">Open Navigation Drawer</string>
+    <string name="drawer_close" translatable="false">Close Navigation Drawer</string>
+    <string-array name="client_types_array">
+        <item>Confidential</item>
+        <item>Public</item>
+    </string-array>
+    <string-array name="expiration_times_array">
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>24 hours</item>
+    </string-array>
+</resources>

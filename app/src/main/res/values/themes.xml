@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.Toking" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here -->
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary_color</item> <!-- Sapphire Blue -->
+        <item name="colorPrimaryVariant">@color/accent_color</item> <!-- Orange Red -->
+        <item name="colorSecondary">@color/secondary_color</item> <!-- Golden Yellow -->
+        <item name="colorOnPrimary">@color/white</item> <!-- White text on primary -->
+        <item name="colorOnSecondary">@color/black</item> <!-- Black text on secondary -->
+
+        <!-- Background Colors -->
+        <item name="android:colorBackground">@color/background_color</item> <!-- Very Light Gray -->
+        <item name="colorSurface">@color/card_background</item> <!-- White background for cards/widgets -->
+        <item name="colorOnSurface">@color/text_primary</item> <!-- Text color on surface -->
+
+        <!-- Text Colors -->
+        <item name="colorOnBackground">@color/text_primary</item> <!-- Jet Black for primary text -->
+        <item name="colorSecondaryVariant">@color/text_secondary</item> <!-- Slate Gray for secondary text -->
+
+        <!-- Button Colors -->
+        <item name="colorButtonNormal">@color/button_primary</item> <!-- Sapphire Blue -->
+        <item name="colorControlHighlight">@color/button_secondary</item> <!-- Golden Yellow -->
+        <item name="colorControlActivated">@color/accent_color</item> <!-- Orange Red -->
+
+        <!-- Notification/Status Colors -->
+        <item name="colorError">@color/error_color</item> <!-- Tomato Red -->
+    </style>
+
+    <!-- Inherit the theme -->
+    <style name="Theme.Toking" parent="Base.Theme.Toking" />
+</resources>

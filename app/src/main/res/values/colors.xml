@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#0F52BA</color> <!-- Sapphire Blue -->
+    <color name="secondary_color">#FFD700</color> <!-- Golden Yellow -->
+    <color name="accent_color">#FF4500</color> <!-- Orange Red -->
+
+    <!-- Background Colors -->
+    <color name="background_color">#F5F5F5</color> <!-- Very Light Gray -->
+    <color name="card_background">#FFFFFF</color> <!-- White -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C1C1C</color> <!-- Jet Black -->
+    <color name="text_secondary">#5F6368</color> <!-- Slate Gray -->
+
+    <!-- Notification/Status Colors -->
+    <color name="success_color">#32CD32</color> <!-- Lime Green -->
+    <color name="error_color">#FF6347</color> <!-- Tomato Red -->
+    <color name="warning_color">#FFA500</color> <!-- Bright Orange -->
+
+    <!-- Button/Action Colors -->
+    <color name="button_primary">#0F52BA</color> <!-- Sapphire Blue -->
+    <color name="button_secondary">#FFD700</color> <!-- Golden Yellow -->
+    <color name="button_disabled">#C0C0C0</color> <!-- Silver -->
+
+    <!-- Original Colors -->
+    <color name="black">#FF000000</color> <!-- Black -->
+    <color name="white">#FFFFFFFF</color> <!-- White -->
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- JWT Token Category -->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_jwt"
+
+            android:title="JWT Tokens" />
+    </group>
+
+    <!-- OAuth Token Category -->
+    <group android:checkableBehavior="single" android:title="OAuth Tokens">
+        <item
+            android:id="@+id/nav_oauth_access"
+
+            android:title="OAuth Access Token" />
+        <item
+            android:id="@+id/nav_oauth_refresh"
+
+            android:title="OAuth Refresh Token" />
+    </group>
+
+    <!-- SAML Token Category -->
+    <group android:checkableBehavior="single" android:title="SAML Tokens">
+        <item
+            android:id="@+id/nav_saml"
+
+            android:title="SAML Tokens" />
+    </group>
+
+    <!-- API Keys -->
+    <group android:checkableBehavior="single" android:title="API Keys">
+        <item
+            android:id="@+id/nav_api_keys"
+
+            android:title="API Keys" />
+    </group>
+
+    <!-- CSRF Token Category -->
+    <group android:checkableBehavior="single" android:title="CSRF Tokens">
+        <item
+            android:id="@+id/nav_csrf"
+
+            android:title="CSRF Tokens" />
+    </group>
+
+    <!-- UUID Tokens -->
+    <group android:checkableBehavior="single" android:title="UUID Tokens">
+        <item
+            android:id="@+id/nav_uuid"
+
+            android:title="UUID Tokens" />
+    </group>
+
+    <!-- HMAC Tokens -->
+    <group android:checkableBehavior="single" android:title="HMAC Tokens">
+        <item
+            android:id="@+id/nav_hmac"
+
+            android:title="HMAC Tokens" />
+    </group>
+
+    <!-- Bearer Tokens -->
+    <group android:checkableBehavior="single" android:title="Bearer Tokens">
+        <item
+            android:id="@+id/nav_bearer"
+
+            android:title="Bearer Tokens" />
+    </group>
+
+    <!-- Session Tokens -->
+    <group android:checkableBehavior="single" android:title="Session Tokens">
+        <item
+            android:id="@+id/nav_session"
+
+            android:title="Session Tokens" />
+    </group>
+
+    <!-- Personal Access Tokens -->
+    <group android:checkableBehavior="single" android:title="Personal Access Tokens">
+        <item
+            android:id="@+id/nav_pat"
+
+            android:title="Personal Access Tokens" />
+    </group>
+
+    <!-- Encrypted Tokens -->
+    <group android:checkableBehavior="single" android:title="Encrypted Tokens">
+        <item
+            android:id="@+id/nav_encrypted"
+
+            android:title="Encrypted Tokens" />
+    </group>
+
+    <!-- Smart Contract Tokens -->
+    <group android:checkableBehavior="single" android:title="Smart Contract Tokens">
+        <item
+            android:id="@+id/nav_erc20"
+
+            android:title="ERC-20 Tokens" />
+        <item
+            android:id="@+id/nav_erc721"
+
+            android:title="ERC-721 Tokens (NFTs)" />
+    </group>
+
+</menu>
